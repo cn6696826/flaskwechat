@@ -1,0 +1,4 @@
+falsk
+mysqlclient
+flask-sqlalchemy
+falsk_script
